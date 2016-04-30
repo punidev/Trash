@@ -7,3 +7,12 @@ D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\bin\Debug\DotaCrasher.exe
 D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\bin\Debug\DotaCrasher.pdb
 D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.exe
 D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.pdb
+D:\repository\projects\punidev\DotaCrasher\DotaCrasher\bin\Debug\DotaCrasher.exe.config
+D:\repository\projects\punidev\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.exe
+D:\repository\projects\punidev\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.pdb
+D:\repository\projects\punidev\DotaCrasher\DotaCrasher\bin\Debug\DotaCrasher.exe
+D:\repository\projects\punidev\DotaCrasher\DotaCrasher\bin\Debug\DotaCrasher.pdb
+D:\repository\projects\punidev\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.csprojResolveAssemblyReference.cache
+D:\repository\projects\punidev\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.MainForm.resources
+D:\repository\projects\punidev\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.Properties.Resources.resources
+D:\repository\projects\punidev\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.csproj.GenerateResource.Cache

@@ -73,7 +73,7 @@ namespace DotaCrasher
         private void timer1_Tick(object sender, EventArgs e)
         {
             now.Text = GetNetworkTime().ToString(CultureInfo.InvariantCulture);
-            var d = GetNetworkTime().ToString(CultureInfo.InvariantCulture);
+            var d = GetNetworkTime();
             if (d.CompareTo(Date) == 1)
             {
                 timer1.Stop();
