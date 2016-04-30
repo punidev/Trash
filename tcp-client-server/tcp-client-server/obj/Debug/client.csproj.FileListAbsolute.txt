@@ -3,9 +3,3 @@ C:\Users\root\Desktop\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-s
 C:\Users\root\Desktop\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.pdb
 C:\Users\root\Desktop\tcp-client-server\tcp-client-server\obj\Debug\tcp-client-server.exe
 C:\Users\root\Desktop\tcp-client-server\tcp-client-server\obj\Debug\tcp-client-server.pdb
-D:\repository\projects\punidev\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.exe.config
-D:\repository\projects\punidev\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.exe
-D:\repository\projects\punidev\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.pdb
-D:\repository\projects\punidev\tcp-client-server\tcp-client-server\obj\Debug\client.csprojResolveAssemblyReference.cache
-D:\repository\projects\punidev\tcp-client-server\tcp-client-server\obj\Debug\tcp-client-server.exe
-D:\repository\projects\punidev\tcp-client-server\tcp-client-server\obj\Debug\tcp-client-server.pdb
