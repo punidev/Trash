@@ -1,0 +1,9 @@
+D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\bin\Debug\DotaCrasher.exe.config
+D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.csprojResolveAssemblyReference.cache
+D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.MainForm.resources
+D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.Properties.Resources.resources
+D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.csproj.GenerateResource.Cache
+D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\bin\Debug\DotaCrasher.exe
+D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\bin\Debug\DotaCrasher.pdb
+D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.exe
+D:\ЛАБЫ\DOTA\DotaCrasher\DotaCrasher\obj\Debug\DotaCrasher.pdb
