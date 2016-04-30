@@ -1,5 +1,0 @@
-C:\Users\root\Desktop\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.exe.config
-C:\Users\root\Desktop\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.exe
-C:\Users\root\Desktop\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.pdb
-C:\Users\root\Desktop\tcp-client-server\tcp-client-server\obj\Debug\tcp-client-server.exe
-C:\Users\root\Desktop\tcp-client-server\tcp-client-server\obj\Debug\tcp-client-server.pdb
