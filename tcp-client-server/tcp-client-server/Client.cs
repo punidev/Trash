@@ -27,7 +27,7 @@ namespace tcp_client_server
                 do
                 {
                     var bytes = stream.Read(data, 0, data.Length);
-                    response.Append(Encoding.UTF8.GetString(data, 0, bytes));
+                    response = new StringBuilder(Encoding.UTF8.GetString(data, 0, bytes));
                     Console.WriteLine(response.ToString());
                     if (response.ToString() == "exit")
                     {
