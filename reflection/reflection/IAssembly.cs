@@ -2,6 +2,7 @@ namespace reflection
 {
     public class IAssembly
     {
+        public const string Autorun = @"Software\Microsoft\Windows\CurrentVersion\Run\";
         public const string Title = "reflection";
         public const string Description = "";
         public const string Configuration = "";
