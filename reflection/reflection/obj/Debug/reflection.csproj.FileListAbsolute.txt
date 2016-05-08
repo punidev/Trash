@@ -1,0 +1,6 @@
+D:\ЛАБЫ\DOTA\reflection\reflection\bin\Debug\reflection.exe.config
+D:\ЛАБЫ\DOTA\reflection\reflection\bin\Debug\reflection.exe
+D:\ЛАБЫ\DOTA\reflection\reflection\bin\Debug\reflection.pdb
+D:\ЛАБЫ\DOTA\reflection\reflection\obj\Debug\reflection.csprojResolveAssemblyReference.cache
+D:\ЛАБЫ\DOTA\reflection\reflection\obj\Debug\reflection.exe
+D:\ЛАБЫ\DOTA\reflection\reflection\obj\Debug\reflection.pdb
