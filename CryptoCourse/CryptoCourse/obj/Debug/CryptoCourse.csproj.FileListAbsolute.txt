@@ -1,0 +1,9 @@
+D:\ЛАБЫ\DOTA\CryptoCourse\CryptoCourse\bin\Debug\CryptoCourse.exe.config
+D:\ЛАБЫ\DOTA\CryptoCourse\CryptoCourse\bin\Debug\CryptoCourse.exe
+D:\ЛАБЫ\DOTA\CryptoCourse\CryptoCourse\bin\Debug\CryptoCourse.pdb
+D:\ЛАБЫ\DOTA\CryptoCourse\CryptoCourse\obj\Debug\CryptoCourse.csprojResolveAssemblyReference.cache
+D:\ЛАБЫ\DOTA\CryptoCourse\CryptoCourse\obj\Debug\CryptoCourse.Properties.Resources.resources
+D:\ЛАБЫ\DOTA\CryptoCourse\CryptoCourse\obj\Debug\CryptoCourse.csproj.GenerateResource.Cache
+D:\ЛАБЫ\DOTA\CryptoCourse\CryptoCourse\obj\Debug\CryptoCourse.exe
+D:\ЛАБЫ\DOTA\CryptoCourse\CryptoCourse\obj\Debug\CryptoCourse.pdb
+D:\ЛАБЫ\DOTA\CryptoCourse\CryptoCourse\obj\Debug\CryptoCourse.MainForm.resources
