@@ -1,0 +1,15 @@
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\bin\Debug\StudentWork.exe.config
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\bin\Debug\StudentWork.exe
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\bin\Debug\StudentWork.pdb
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.csprojResolveAssemblyReference.cache
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.Properties.Resources.resources
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.csproj.GenerateResource.Cache
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.exe
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.pdb
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\bin\Debug\System.Data.SQLite.pdb
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\bin\Debug\System.Data.SQLite.xml
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.MainForm.resources
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.EditStudent.resources
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.Welcome.resources
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.StudLog.resources
+D:\ЛАБЫ\DOTA\StudentWork\StudentWork\obj\Debug\StudentWork.Test.resources
