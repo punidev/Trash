@@ -1,0 +1,10 @@
+D:\ЛАБЫ\DOTA\Exc\TestProject\bin\Debug\TestProject.exe.config
+D:\ЛАБЫ\DOTA\Exc\TestProject\bin\Debug\TestProject.exe
+D:\ЛАБЫ\DOTA\Exc\TestProject\bin\Debug\TestProject.pdb
+D:\ЛАБЫ\DOTA\Exc\TestProject\obj\Debug\TestProject.MainForm.resources
+D:\ЛАБЫ\DOTA\Exc\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+D:\ЛАБЫ\DOTA\Exc\TestProject\obj\Debug\TestProject.UserException.resources
+D:\ЛАБЫ\DOTA\Exc\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+D:\ЛАБЫ\DOTA\Exc\TestProject\obj\Debug\TestProject.exe
+D:\ЛАБЫ\DOTA\Exc\TestProject\obj\Debug\TestProject.pdb
+D:\ЛАБЫ\DOTA\Exc\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
