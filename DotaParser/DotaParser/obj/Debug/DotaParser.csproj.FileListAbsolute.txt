@@ -1,0 +1,9 @@
+D:\ЛАБЫ\ООП-2\DotaParser\DotaParser\bin\Debug\DotaParser.exe.config
+D:\ЛАБЫ\ООП-2\DotaParser\DotaParser\bin\Debug\DotaParser.exe
+D:\ЛАБЫ\ООП-2\DotaParser\DotaParser\bin\Debug\DotaParser.pdb
+D:\ЛАБЫ\ООП-2\DotaParser\DotaParser\obj\Debug\DotaParser.exe
+D:\ЛАБЫ\ООП-2\DotaParser\DotaParser\obj\Debug\DotaParser.pdb
+D:\ЛАБЫ\ООП-2\DotaParser\DotaParser\bin\Debug\HtmlAgilityPack.dll
+D:\ЛАБЫ\ООП-2\DotaParser\DotaParser\bin\Debug\HtmlAgilityPack.pdb
+D:\ЛАБЫ\ООП-2\DotaParser\DotaParser\bin\Debug\HtmlAgilityPack.xml
+D:\ЛАБЫ\ООП-2\DotaParser\DotaParser\obj\Debug\DotaParser.csprojResolveAssemblyReference.cache

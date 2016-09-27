@@ -1,0 +1,6 @@
+D:\ЛАБЫ\CourseSh\CourseSh\bin\Debug\CourseSh.exe.config
+D:\ЛАБЫ\CourseSh\CourseSh\bin\Debug\CourseSh.exe
+D:\ЛАБЫ\CourseSh\CourseSh\bin\Debug\CourseSh.pdb
+D:\ЛАБЫ\CourseSh\CourseSh\obj\Debug\CourseSh.csprojResolveAssemblyReference.cache
+D:\ЛАБЫ\CourseSh\CourseSh\obj\Debug\CourseSh.exe
+D:\ЛАБЫ\CourseSh\CourseSh\obj\Debug\CourseSh.pdb
